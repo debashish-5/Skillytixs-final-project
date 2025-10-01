@@ -1,0 +1,11 @@
+city,store_id_1,store_id_2,store_id_3,store_id_4,store_id_5,store_id_6,store_id_7,store_id_8,store_id_9,store_id_10,store_format_Large,store_format_Medium,store_format_Small
+Mumbai,True,False,False,False,False,False,False,False,False,False,True,False,False
+Delhi,False,True,False,False,False,False,False,False,False,False,False,False,True
+Bangalore,False,False,True,False,False,False,False,False,False,False,True,False,False
+Hyderabad,False,False,False,True,False,False,False,False,False,False,False,False,True
+Chennai,False,False,False,False,True,False,False,False,False,False,False,False,True
+Kolkata,False,False,False,False,False,True,False,False,False,False,False,True,False
+Pune,False,False,False,False,False,False,True,False,False,False,False,True,False
+Ahmedabad,False,False,False,False,False,False,False,True,False,False,True,False,False
+Jaipur,False,False,False,False,False,False,False,False,True,False,False,False,True
+Lucknow,False,False,False,False,False,False,False,False,False,True,False,False,True
